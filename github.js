@@ -6,3 +6,5 @@ const upi ="integrated upi"
 console.log(upi);
 const branch="bramch id"
 console.log(branch)
+const footer="footer"
+console.log(footer)

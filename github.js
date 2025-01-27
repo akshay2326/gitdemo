@@ -9,3 +9,4 @@ console.log(branch)
 const footer="footer"
 console.log(footer)
 console.log("code after push")
+console.log("bug fixed")

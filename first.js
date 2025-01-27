@@ -19,3 +19,6 @@ console.log("hello")
 //git commit -m "first bug"
 console.log("monfey honey")
 console.log("monfey hobvhney")
+//git checkout master
+//git add.
+//git commit -m "second master"

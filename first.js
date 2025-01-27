@@ -22,10 +22,17 @@ console.log("monfey hobvhney")
 //git checkout master
 //git add.
 //git commit -m "second master"
+//git merge feature
+//git status
+//git commit -m "git commit"
 
 onsole.log("monfey honey")
 console.log("monfey hobvhney")
 onsole.log("monfey honey")
 console.log("monfey hobdnkevvhney")
-console.log("wea re on master")
-cpnsole.log("ajkncwbvbr")
+console.log("we are on branch")
+const afe=67;
+
+function shadow(){
+    console.log(afe);
+}

@@ -32,3 +32,7 @@ onsole.log("monfey honey")
 console.log("monfey hobdnkevvhney")
 console.log("we are on branch")
 const afe=67;
+
+function shadow(){
+    console.log(afe);
+}
